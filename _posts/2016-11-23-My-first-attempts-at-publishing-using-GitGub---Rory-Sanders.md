@@ -41,21 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>I learned by Listening to Mr Tansleys Presentation and by reading the slides on Google Classroom</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
-
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+    <td>It all went very well and I was able to easily create a Github Account and create a blog, but I need to make sure that I dont tick the box when converting my Google Doc file in Gabriel. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>Next time I will make sure that I dont tick the box in Gabriel as it messed up everything, so next time I will make sure that I press the little drop down arrow and select POST so everything goes well.</td>
   </tr>
 </table>
 
