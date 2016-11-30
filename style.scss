@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background:#212223 ;
-  font: 18px/1.4 $PoiretOne;
+	background:$212223 ;
+  font: 18px/1.4 $helvetica;
   color: #333333;
 }
 
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #a6a6a6;
+  color: $a6a6a6;
   font-weight: bold;
 
   line-height: 1.7;
