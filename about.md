@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an enthusiastic IT student in year 9 currently learning how to use github, and hopefully make the best blog ever!
 
-### Contact me
+### Contact me if you have any ideas of how I can improve my blog Below 
 
-[Email Me](mailto:rory.sanders@challoners.org)
+[Email Me](mailto:email4github@gmail.com)
