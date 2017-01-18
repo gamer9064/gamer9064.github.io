@@ -12,5 +12,10 @@ At the start of the lesson I had a little bit of knoweledge form last week, but 
 
 I learned by asking Mr Tansley for help and from advice from Ben cross.
 
-My learning was limited by me not knowing exactly yhow to get the code to work, however I dont think that I could have done anything to improve.
+
+My learning was limited by me not knowing exactly yhow to get the code to work, however I dont think that I could have done anything to improve.
+
+⇊⇊⇊ Here is my Spreadsheet with working discount codes ⇊⇊⇊
+
+<iframe src="https://docs.google.com/spreadsheets/d/1OUjFqs49AcoVbxaW65atDjgZSqq2_30rkR6OL5Dvmqk/pubhtml?widget=true&amp;headers=false"></iframe>
 
