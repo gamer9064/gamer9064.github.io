@@ -6,7 +6,8 @@ permalink: /making-my-blog-look-even-better-than-it-did-lasty-week/
 source-id: 1401erilTZk2QFdZaEyrfKq8zAGHn5I7HLNUY94e8QKQ
 published: true
 ---
-                                  Making My Blog look even better than it did last week
+
+Making My Blog look even better than it did last week
 
 
 At the start of this lesson I had a little bit of knowledge from last week. I think that I have achieved my Target of making my blog look even better
