@@ -1,5 +1,5 @@
 ---
-title: Improving our ASKII translator
+title: Making our ASKII translator
 layout: post
 author: rory.sanders
 permalink: /untitled-document/
